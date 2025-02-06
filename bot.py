@@ -415,7 +415,7 @@ def main():
     bot = EscrowBot()
     
     # Create application
-    application = Application.builder().token('YOUR_BOT_TOKEN').build()
+    application = Application.builder().token('7806389764:AAFEyK16Otkex4lwUMVsmdA_HpWS729_fxM').build()
     
     # Add handlers
     application.add_handler(CommandHandler("start", bot.start))
