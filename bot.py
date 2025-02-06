@@ -62,7 +62,7 @@ class Database:
 
 class Messages:
     WELCOME = """
-🔒 Welcome to the Escrow Bot!
+🔒 Welcome to the OG Escrow Bot!
 
 Available commands:
 /balance - Check your balance
